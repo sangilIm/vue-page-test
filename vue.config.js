@@ -1,5 +1,6 @@
 // vue.config.js
+
+//publicPath:'/vue-page-test/',
 module.exports = {
-    publicPath:'/vue-page-test/',
     transpileDependencies: ['vuetify']
 }
