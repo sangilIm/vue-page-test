@@ -52,7 +52,9 @@ export default {
   components: {
     HelloWorld,
   },
-
+  methods:{
+  },
+  
   data: () => ({
     //
   }),
